@@ -1361,9 +1361,9 @@ p {
   height: auto;
   padding-bottom: 10px;
   background-image: radial-gradient(
-      circle at 0% 100%,
-      rgba(135, 242, 242, 0) 22%,
-      rgba(135, 242, 242, 0.81) 100%
+      circle at right bottom,
+      rgba(135, 242, 242, 0.81) 20%,
+      rgba(135, 242, 242, 0) 80%
     ),
     url("../images/TackgramLogo_4@4x\ 16.png");
   background-size: contain;

@@ -404,13 +404,7 @@
     padding-bottom: 30px;
     max-width: 100%;
     position: relative;
-    background-image: radial-gradient(
-      circle at 0% 100%,
-      rgba(135, 242, 242, 0.81) 0%,
-      rgba(135, 242, 242, 0) 39%,
-      rgba(3, 169, 244, 0) 63%,
-      rgba(135, 242, 242, 0.81) 99%
-    );
+    background: radial-gradient(ellipse at center, #00ffec75 30%, #ffffff);
     /* background-size: cover; */
     background-blend-mode: luminosity;
     background-repeat: no-repeat;
@@ -703,16 +697,9 @@
   #product-area .container {
     padding-bottom: 30px;
     position: relative;
-    /* background-image: radial-gradient(
-      circle at 0% 100%,
-      rgba(135, 242, 242, 0.81) 0%,
-      rgba(135, 242, 242, 0) 39%,
-      rgba(3, 169, 244, 0) 63%,
-      rgba(135, 242, 242, 0.81) 99%
-    ); */
     background: radial-gradient(ellipse at center, #00ffec75 30%, #ffffff);
     background-size: cover;
-    background-blend-mode: luminosity;
+    background-blend-mode: soft-light;
     background-repeat: no-repeat;
   }
   .product-image-bg-right-top {
