@@ -1,4 +1,5 @@
 import React from "react";
+import MobileFooter from "../footer/MobileFooter";
 import ImageBG from "../ImageBG";
 import ProductContainer from "../ProductContainer";
 
@@ -407,6 +408,7 @@ export default function Home() {
             imgSrc={item.imgSrc}
           />
         ))}
+        <MobileFooter />
       </section>
       {/* <!--staendrt product area--> */}
     </div>

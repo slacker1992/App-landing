@@ -17,7 +17,7 @@ const ProductContainer = ({ h2_text, p_text, imgSrc }) => {
       </div>
       <div class="row">
         {/* <!--start product single--> */}
-        <div class="col-lg-3 col-md-6">
+        <div class="col-lg-3 col-md-6 offset-md-3">
           <div class="product-single text-center">
             <img src={`assets/images/${imgSrc}.png`} class="img-fluid" alt="" />
           </div>

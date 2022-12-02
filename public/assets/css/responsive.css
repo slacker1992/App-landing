@@ -40,6 +40,55 @@
 ================================================================*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+  #header {
+    /* box-shadow: 1px 1px 10px #00000020; */
+    margin-bottom: 20px;
+  }
+  .logo img {
+    display: none;
+  }
+  .topBar,
+  .topbar-btn,
+  .topbar-typography,
+  .topbar-left {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .topBar {
+    flex-direction: row;
+    padding: 0 5px;
+  }
+  .topbar-left {
+    flex: 1;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .topbar-typography {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .topbar-btn {
+    height: 100%;
+  }
+  .logo-top img {
+    width: 40px;
+  }
+  .logo-scroll img {
+    max-width: 120px;
+  }
+  .navbar {
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo img {
+    display: none;
+  }
+  .logo-scroll img {
+    max-width: 120px;
+    display: block;
+  }
   #collapsingNavbar2 {
     background-color: #fff;
     padding: 30px 0 40px;
@@ -103,6 +152,9 @@
     padding: 40px 20px 50px;
     margin: 0 0 120px;
   }
+  .slider {
+    display: none;
+  }
   .slide-single {
     padding: 0 5%;
   }
@@ -161,10 +213,37 @@
     margin: 0 0 30px;
   }
   .product-single img {
-    max-width: 250px;
+    max-width: 100%;
   }
   #product-area {
-    padding: 90px 0 70px;
+    padding-top: 90px;
+    padding-bottom: 0;
+    display: block;
+  }
+  #product-area .container {
+    padding-bottom: 30px;
+    max-width: 100%;
+    position: relative;
+    background: radial-gradient(ellipse at center, #00ffec75 30%, #ffffff);
+    /* background-size: cover; */
+    background-blend-mode: luminosity;
+    background-repeat: no-repeat;
+  }
+  .product-image-bg-right-top {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .product-image-bg-left-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  .footer-nav-right-bottom {
+    position: absolute;
+    width: 50%;
+    bottom: 0;
+    right: 0;
   }
   #faq-area {
     padding: 90px 0 80px;
@@ -181,6 +260,9 @@
   }
   .contact-form button {
     padding: 10px 24px;
+  }
+  .mobile-footer {
+    display: flex;
   }
 }
 
@@ -418,6 +500,11 @@
     position: absolute;
     bottom: 0;
     left: 0;
+  }
+  .footer-nav-right-bottom {
+    position: absolute;
+    bottom: 0;
+    right: 0;
   }
   #testimonial-area {
     padding: 70px 0 115px;
@@ -712,6 +799,11 @@
     bottom: 0;
     left: 0;
   }
+  .footer-nav-right-bottom {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
   #testimonial-area {
     padding: 70px 0 115px;
   }
@@ -1005,6 +1097,12 @@
   #product-area {
     padding: 70px 0 50px;
     display: block;
+  }
+  .footer-nav-right-bottom {
+    position: absolute;
+    width: 50%;
+    bottom: 0;
+    right: 0;
   }
   #testimonial-area {
     padding: 70px 0 115px;

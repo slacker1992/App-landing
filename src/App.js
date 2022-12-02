@@ -30,7 +30,7 @@ function App() {
           {/* <Route path="*" element={<Notfound/>} /> */}
         </Routes>
         {/* <Album name="xxxx" date="2020/01/01" /> */}
-        <MobileFooter />
+        {/* <MobileFooter /> */}
         <Footer />
       </Router>
     </>

@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import FooterImageBG from "../FooterImageBG";
 
 const MobileFooter = () => {
   return (
@@ -21,6 +22,7 @@ const MobileFooter = () => {
           <Link>Contact Us</Link>
         </div>
       </div>
+      <FooterImageBG />
     </div>
   );
 };
