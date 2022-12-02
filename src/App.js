@@ -3,13 +3,8 @@ import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
-// import Player from "./components/player/Player";
-// import Artists from "./components/artists/Artists";
-// import Producers from "./components/producers/Producers";
-// import Videographers from "./components/videographers/Videographers";
-// import Album from "./components/album/Album";
-// import Contact from "./components/contact/Contact";
 import Home from "./components/home/Home";
+import MobileFooter from "./components/footer/MobileFooter";
 // import About from "./components/about/About";
 // import Projects from "./components/projects/Projects";
 // import Notfound from "./components/Notfound";
@@ -23,7 +18,7 @@ function App() {
         <Header />
         {/* <Player /> */}
         <Routes>
-          <Route path="/" exact element={<Home/>} />
+          <Route path="/" exact element={<Home />} />
           {/* <Route path="/About" exact element={<About/>} /> */}
           {/* <Route path="/Producers" exact element={<Producers/>} /> */}
           {/* <Route path="Projects" exact element={<Projects/>} /> */}
@@ -33,10 +28,10 @@ function App() {
           {/* <Route path="/Videographer/:id" exact element={<VAlbum/>} /> */}
           {/* <Route path="/Producer/:id" exact element={<PAlbum/>} /> */}
           {/* <Route path="*" element={<Notfound/>} /> */}
-
         </Routes>
-          {/* <Album name="xxxx" date="2020/01/01" /> */}
-        <Footer />  
+        {/* <Album name="xxxx" date="2020/01/01" /> */}
+        <MobileFooter />
+        <Footer />
       </Router>
     </>
   );

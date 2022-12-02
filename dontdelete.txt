@@ -1,0 +1,260 @@
+<div class="container">
+          <ImageBG />
+          <div class="row text-bg">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Tack with your buddies!</h2>
+                <p>
+                  Discover new friends and/or build up your own community for
+                  others to flock to.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/1.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Your Privacy and Security!</h2>
+                <p>
+                  Tackgram closely monitors privacy and security for the benefit
+                  of the user’s safety and experience.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/2.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Freedom of Expression</h2>
+                <p>
+                  Tack your thoughts, opinions, and artistry on your wall. Make
+                  it yours.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/3.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Let it be and talk free!</h2>
+                <p>
+                  Tackgram chat with various communities and people privately
+                  using our encrypted messaging.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/4.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Content real time!</h2>
+                <p>
+                  Explore your interests, friends interests and what is the
+                  latest in your region as well as the world.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/5.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Explore Tackgram World!</h2>
+                <p>
+                  Search for friends, various topics or browse Tackgram for pure
+                  entertainment. Leave a comment, reaction, follow or share.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/6.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Spread your word with world!</h2>
+                <p>
+                  As a tacker, utilize all our features to better communicate
+                  your personality to the Tackgram community.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/7.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Express how you feel!</h2>
+                <p>
+                  Did a post make you happy, sad, angry, uncomfortable, cringe
+                  or lol? Reactions are a great way to bring emotion to text!
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/8.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Tack a joke and make your audience laugh!</h2>
+                <p>
+                  Everyone will see the smile icon on your post and know it will
+                  contain a joke or something humorous. Make someone giggle at
+                  your post!
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/9.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
+
+        <div class="container">
+          <ImageBG />
+          <div class="row">
+            {/* <!--start heading--> */}
+            <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+              <div class="section-heading text-center">
+                <h2>Going or not going?</h2>
+                <p>
+                  Create/Share a post for an event to instantly let everyone
+                  know if you will be attending or hosting an event.
+                </p>
+              </div>
+            </div>
+            {/* <!--end heading--> */}
+          </div>
+          <div class="row">
+            {/* <!--start product single--> */}
+            <div class="col-lg-3 col-md-6">
+              <div class="product-single text-center">
+                <img src="assets/images/9.png" class="img-fluid" alt="" />
+              </div>
+            </div>
+            {/* <!--end product single--> */}
+          </div>
+        </div>
