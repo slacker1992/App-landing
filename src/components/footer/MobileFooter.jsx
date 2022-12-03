@@ -1,25 +1,25 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import FooterImageBG from "../FooterImageBG";
 
 const MobileFooter = () => {
   return (
     <div className="mobile-footer">
       <div>
-        <a>
+        <a href="#">
           <img src="assets/images/button.png" alt="" />
         </a>
       </div>
       <div className="mobile-footer-nav">
         <div className="footer-nav-menu">
-          <Link to={"/aboutus"}>About Us</Link>
-          <Link>Terms of Services</Link>
-          <Link>Privacy Policy</Link>
+          <a href="About" to={"/aboutus"}>About Us</a>
+          <a href="#">Terms of Services</a>
+          <a href="#">Privacy Policy</a>
         </div>
         <div className="footer-nav-menu">
-          <Link>Tackgram Rules</Link>
-          <Link>Verifications</Link>
-          <Link>Contact Us</Link>
+          <a href="#">Tackgram Rules</a>
+          <a href="#">Verifications</a>
+          <a href="#">Contact Us</a>
         </div>
       </div>
       <FooterImageBG />

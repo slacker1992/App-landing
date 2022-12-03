@@ -84,9 +84,9 @@ export default function Home() {
                     Discover new friends and/or build up your own community for
                     others to flock to.
                   </p>
-                  <a>
+                  <a href="#">
                     {" "}
-                    <img src="assets/images/button.png" alt="" />
+                    <img  src="assets/images/button.png" alt="" />
                   </a>
                 </div>
               </div>
@@ -97,7 +97,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/1.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -129,7 +129,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/2.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -161,7 +161,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/3.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -193,7 +193,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/4.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -225,7 +225,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/5.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -258,7 +258,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/6.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -290,7 +290,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/7.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -322,7 +322,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/8.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -355,7 +355,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/9.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>
@@ -387,7 +387,7 @@ export default function Home() {
               <div class="caption-img">
                 <img
                   src="assets/images/10.png"
-                  class="img-fluid animation-jump"
+                  // class="img-fluid animation-jump"
                   alt=""
                 />
               </div>

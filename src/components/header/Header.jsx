@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <div>
       {/* <!--start preloader--> */}
-      <div class="preloader">
+      {/* <div class="preloader">
         <div class="d-table">
           <div class="d-table-cell align-middle">
             <div class="spinner">
@@ -13,7 +13,7 @@ export default function Header() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* <!--end preloader--> */}
 
       {/* <!--start header--> */}
@@ -55,37 +55,37 @@ export default function Header() {
             >
               <ul class="navbar-nav mx-auto text-center">
                 <li class="nav-item">
-                  <a class="nav-link active" href="#" data-scroll-nav="0">
+                  <a class="nav-link active" href="Home" >
                     Home
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="1">
+                  <a class="nav-link" href="About" >
                     About Us
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="2">
+                  <a class="nav-link" href="TermsofServices" >
                     Terms of Services
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="3">
+                  <a class="nav-link" href="PrivacyPolicy" >
                     Privacy Policy
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="4">
+                  <a class="nav-link" href="TackgramRules" >
                     Tackgram Rules
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="5">
+                  <a class="nav-link" href="Verification" >
                     Verifications
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="6">
+                  <a class="nav-link" href="#">
                     Contact Us
                   </a>
                 </li>
